@@ -1,0 +1,4 @@
+upstream: https://github.com/sourcegit-org/sourcegit
+commit: 2735a8ad80c2443bc736b7e6e501f1052b61d940
+license: MIT
+Unmodified snapshot except that .github/workflows was emptied.
